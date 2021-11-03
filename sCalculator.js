@@ -11,6 +11,7 @@ let result; //stores result for each operation
 
 // take the operator input
 //Asks user whether they want to add,subtract divide or multiply
+//Only use words "add, subtract, multiply, divide" for each operation
 const operator = prompt('Enter operator ( either add, subtract, multiply or divide ): ');
 
 // take the operand input
